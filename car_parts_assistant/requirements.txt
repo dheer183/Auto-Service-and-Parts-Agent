@@ -1,7 +1,0 @@
-flask
-langchain
-langchain-chroma
-langchain-community
-langchain-groq
-transformers
-sentence-transformers
