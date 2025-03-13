@@ -1,0 +1,641 @@
+Year,Manufacturer,Model,Engine Size (L),Transmission,Car Category,Service Category,Service Name,Labour Hours,Description
+2000,Toyota,Prius,1.8,Manual,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Prius,1.8,Manual,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Prius,1.8,Manual,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Prius,1.8,Manual,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Prius,1.8,Manual,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Prius,1.8,Manual,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Prius,1.8,Manual,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Prius,1.8,Manual,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Prius,1.8,Manual,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Prius,1.8,Manual,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Prius,1.8,Manual,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Prius,1.8,Manual,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Prius,1.8,Manual,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Prius,1.8,Manual,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Prius,1.8,Manual,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Prius,1.8,Manual,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Prius,1.8,Manual,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Prius,1.8,Manual,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Prius,1.8,Manual,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Prius,1.8,Manual,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Prius,2.4,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Prius,3.2,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Prius,5.7,Automatic,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,RAV4,1.8,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,RAV4,2.4,Automatic,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,RAV4,3.2,Automatic,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,RAV4,3.2,Automatic,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,RAV4,5.7,Manual,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,RAV4,5.7,Manual,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,RAV4,5.7,Manual,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,RAV4,5.7,Manual,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,RAV4,5.7,Manual,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,RAV4,5.7,Manual,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,RAV4,5.7,Manual,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,RAV4,5.7,Manual,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,RAV4,5.7,Manual,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,RAV4,5.7,Manual,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,RAV4,5.7,Manual,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,RAV4,5.7,Manual,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,RAV4,5.7,Manual,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,RAV4,5.7,Manual,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,RAV4,5.7,Manual,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,RAV4,5.7,Manual,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,RAV4,5.7,Manual,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,RAV4,5.7,Manual,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,RAV4,5.7,Manual,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,RAV4,5.7,Manual,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Highlander,1.8,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Highlander,2.4,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Highlander,3.2,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Highlander,5.7,Automatic,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Highlander,5.7,Automatic,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tacoma,1.8,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tacoma,2.4,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tacoma,3.2,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tacoma,5.7,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tundra,1.8,Manual,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tundra,2.4,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tundra,3.2,Automatic,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tundra,3.2,Automatic,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Tundra,5.7,Manual,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Tundra,5.7,Manual,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Tundra,5.7,Manual,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Tundra,5.7,Manual,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Tundra,5.7,Manual,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Tundra,5.7,Manual,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Tundra,5.7,Manual,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Tundra,5.7,Manual,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Tundra,5.7,Manual,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Tundra,5.7,Manual,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Tundra,5.7,Manual,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Tundra,5.7,Manual,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Tundra,5.7,Manual,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Tundra,5.7,Manual,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Tundra,5.7,Manual,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Tundra,5.7,Manual,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Tundra,5.7,Manual,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Tundra,5.7,Manual,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Tundra,5.7,Manual,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Tundra,5.7,Manual,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Avalon,1.8,Manual,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Avalon,1.8,Manual,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Avalon,1.8,Manual,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Avalon,1.8,Manual,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Avalon,1.8,Manual,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Avalon,1.8,Manual,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Avalon,1.8,Manual,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Avalon,1.8,Manual,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Avalon,1.8,Manual,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Avalon,1.8,Manual,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Avalon,1.8,Manual,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Avalon,1.8,Manual,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Avalon,1.8,Manual,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Avalon,1.8,Manual,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Avalon,1.8,Manual,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Avalon,1.8,Manual,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Avalon,1.8,Manual,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Avalon,1.8,Manual,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Avalon,1.8,Manual,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Avalon,1.8,Manual,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Avalon,2.4,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Avalon,3.2,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Avalon,5.7,Automatic,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Camry,1.8,Manual,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Camry,1.8,Manual,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Camry,1.8,Manual,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Camry,1.8,Manual,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Camry,1.8,Manual,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Camry,1.8,Manual,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Camry,1.8,Manual,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Camry,1.8,Manual,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Camry,1.8,Manual,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Camry,1.8,Manual,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Camry,1.8,Manual,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Camry,1.8,Manual,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Camry,1.8,Manual,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Camry,1.8,Manual,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Camry,1.8,Manual,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Camry,1.8,Manual,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Camry,1.8,Manual,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Camry,1.8,Manual,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Camry,1.8,Manual,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Camry,1.8,Manual,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Camry,2.4,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Camry,3.2,Manual,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Camry,5.7,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Corolla,1.8,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Diagnostics,1.0,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Engine Components,Spark Plug Replacement,1.2,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Engine Components,Timing Belt Replacement,3.5,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Engine Components,Cylinder Head Gasket Replacement,4.0,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Engine Components,Engine Rebuild,10.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Fluid Change,2.0,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Filter Replacement,1.5,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Transmission System,Clutch Replacement,3.0,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Diagnostics,1.5,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Transmission System,Transmission Rebuild,8.0,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Suspension Inspection,0.5,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Shock Absorber Replacement,1.5,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Steering Rack Replacement,3.0,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Wheel Alignment,1.0,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Suspension and Steering System,Control Arm Replacement,2.0,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Braking System,Front Brake Reline,1.0,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Braking System,Rear Brake Reline,1.0,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Braking System,Brake Bleeding,0.5,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Braking System,Brake Pad Replacement,1.5,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Corolla,2.4,Manual,Sedan/Hatchback,Braking System,Caliper Service/Replacement,1.2,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Engine Components,Engine Diagnostics,1.3,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Engine Components,Spark Plug Replacement,1.56,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Engine Components,Timing Belt Replacement,4.55,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Engine Components,Cylinder Head Gasket Replacement,5.2,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Engine Components,Engine Rebuild,13.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Fluid Change,2.6,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Filter Replacement,1.95,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Transmission System,Clutch Replacement,3.9,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Diagnostics,1.95,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Transmission System,Transmission Rebuild,10.4,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Suspension Inspection,0.65,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Shock Absorber Replacement,1.95,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Steering Rack Replacement,3.9,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Wheel Alignment,1.3,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Suspension and Steering System,Control Arm Replacement,2.6,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Braking System,Front Brake Reline,1.3,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Braking System,Rear Brake Reline,1.3,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Braking System,Brake Bleeding,0.65,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Braking System,Brake Pad Replacement,1.95,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Corolla,3.2,Automatic,Pickup Trucks,Braking System,Caliper Service/Replacement,1.56,Service or replace brake calipers to correct sticking or leakage issues.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Engine Components,Engine Diagnostics,1.2,Conduct a comprehensive assessment of the engine’s condition using advanced onboard diagnostics and visual inspection.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Engine Components,Spark Plug Replacement,1.44,Remove outdated spark plugs and install new ones after verifying proper gap settings to restore optimal ignition performance.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Engine Components,Timing Belt Replacement,4.2,"Remove engine covers and ancillary components, align timing marks, remove the worn belt, and install a new one with precise tensioner adjustments."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Engine Components,Cylinder Head Gasket Replacement,4.8,"Disassemble essential components to access the cylinder head, remove the deteriorated gasket, and prepare mating surfaces for a new gasket."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Engine Components,Engine Rebuild,12.0,"Perform a complete teardown and reassembly of the engine, cleaning, inspecting, and replacing internal components as necessary."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Transmission System,Transmission Fluid Change,2.4,"Drain existing transmission fluid and replace it with the manufacturer-specified fluid, including a fluid filter change if applicable."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Transmission System,Transmission Filter Replacement,1.8,"Access the transmission, replace the old filter with a new one and a proper gasket to maintain clean fluid flow."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Transmission System,Clutch Replacement,3.6,"For manual transmissions, remove the transmission assembly to replace the worn clutch disc and pressure plate for smooth shifting."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Transmission System,Transmission Diagnostics,1.8,Utilize advanced diagnostic equipment to evaluate the transmission’s performance and pinpoint issues such as slippage.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Transmission System,Transmission Rebuild,9.6,"Disassemble the transmission, inspect and replace worn components, and reassemble with exact alignment."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Suspension and Steering System,Suspension Inspection,0.6,"Inspect shocks, struts, springs, and bushings for wear and damage."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Suspension and Steering System,Shock Absorber Replacement,1.8,Replace worn shock absorbers to restore optimal ride quality and handling.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Suspension and Steering System,Steering Rack Replacement,3.6,Remove and install a new steering rack with proper calibration.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Suspension and Steering System,Wheel Alignment,1.2,"Adjust camber, caster, and toe to ensure optimal tire wear and handling."
+2000,Toyota,Corolla,5.7,Automatic,SUV,Suspension and Steering System,Control Arm Replacement,2.4,Replace worn control arms and bushings to restore suspension geometry.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Braking System,Front Brake Reline,1.2,Resurface or replace front brake rotors to ensure consistent braking performance.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Braking System,Rear Brake Reline,1.2,Resurface or replace rear brake rotors to restore proper braking function.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Braking System,Brake Bleeding,0.6,Remove trapped air from brake lines to restore optimal hydraulic pressure.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Braking System,Brake Pad Replacement,1.8,Replace worn brake pads and inspect related components for balanced braking.
+2000,Toyota,Corolla,5.7,Automatic,SUV,Braking System,Caliper Service/Replacement,1.44,Service or replace brake calipers to correct sticking or leakage issues.
