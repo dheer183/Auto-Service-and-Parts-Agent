@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ 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 }} # Use your secret here
       
       - name: Unzip databases
         run: |
