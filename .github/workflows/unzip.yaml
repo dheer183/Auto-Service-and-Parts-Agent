@@ -40,7 +40,7 @@ jobs:
           # Cleanup and verify
           rm -rf tmp_unzip
           echo "=== Final Validation ==="
-          ls -lR vectorDB/vectorDB/
+          ls -lR Service/vectorDB/vectorDB/
           [ -f Service/vectorDB/vectorDB/parts_data/chroma.sqlite3 ] && \
           [ -f Service/vectorDB/vectorDB/service_data/chroma.sqlite3 ] || exit 1
 
