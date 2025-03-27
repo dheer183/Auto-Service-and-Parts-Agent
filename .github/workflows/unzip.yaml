@@ -1,14 +1,14 @@
-name: VectorDB Deployment Pipeline
+name: Chroma DB Deployment
 on: [push]
 
 jobs:
-  process-vectordb:
+  process-chroma-db:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
@@ -17,42 +17,41 @@ jobs:
       - name: Setup directories
         run: |
           mkdir -p Service/vectorDB/vectorDB
-          echo "Directory structure created"
+          echo "Directory structure:"
           tree -d || true
 
-      - name: Process and Validate VectorDBs
+      - name: Process Chroma Databases
         run: |
-          # Create temporary workspace
+          # Create temp workspace
           mkdir -p tmp_unzip
 
-          # Process Parts Data
-          echo "=== Processing Parts Data ==="
-          unzip -o Service/vectorDB/parts_data_vectorDB.zip -d tmp_unzip
-          mv tmp_unzip/content/parts_data vectorDB/vectorDB/
+          # Process ZIP files from Service/ directory
+          echo "=== Extracting Parts Data ==="
+          unzip -o Service/parts_data_vectorDB.zip -d tmp_unzip
+          mv "$(find tmp_unzip -type d -name 'parts_data')" Service/vectorDB/vectorDB/
+
+          echo "=== Extracting Service Data ==="
+          unzip -o Service/service_data_vectorDB.zip -d tmp_unzip
+          mv "$(find tmp_unzip -type d -name 'service_data')" Service/vectorDB/vectorDB/
+
+          # Validate structure
+          echo "=== Final Structure ==="
+          ls -lR Service/vectorDB/vectorDB
           [ -f Service/vectorDB/vectorDB/parts_data/chroma.sqlite3 ] || exit 1
-
-          # Process Service Data
-          echo "=== Processing Service Data ==="
-          unzip -o Service/vectorDB/service_data_vectorDB.zip -d tmp_unzip
-          mv tmp_unzip/content/service_data vectorDB/vectorDB/
           [ -f Service/vectorDB/vectorDB/service_data/chroma.sqlite3 ] || exit 1
 
-          # Cleanup and verify
+          # Cleanup
           rm -rf tmp_unzip
-          echo "=== Final Validation ==="
-          ls -lR Service/vectorDB/vectorDB/
-          [ -f Service/vectorDB/vectorDB/parts_data/chroma.sqlite3 ] && \
-          [ -f Service/vectorDB/vectorDB/service_data/chroma.sqlite3 ] || exit 1
 
-      - name: Commit Validated Databases
+      - name: Commit Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           
-          git add vectorDB/vectorDB/
+          git add Service/vectorDB/vectorDB/
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "Added validated SQLite vector databases: $(date +%Y-%m-%d)"
+            git commit -m "chore: Update Chroma databases in Service/vectorDB [$(date +%Y-%m-%d)]"
             git push origin HEAD:$GITHUB_REF
           else
-            echo "No changes to commit"
+            echo "No database changes to commit"
           fi
