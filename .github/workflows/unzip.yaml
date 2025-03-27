@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
+      statuses: write
 
     steps:
       - name: Checkout code
@@ -13,7 +15,12 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           fetch-depth: 0
+          # Add these to ensure proper authentication
+          persist-credentials: true
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}  # If using SSH
+          ssh-known-hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
 
+      # Rest of your workflow steps...
       - name: Setup directories
         run: |
           mkdir -p Service/vectorDB/vectorDB
