@@ -1,4 +1,4 @@
-name: Chroma DB Deployment
+name: Chroma DB Deployment 
 on: [push]
 
 jobs:
